@@ -2,7 +2,7 @@
 👀 I’m interested in Web Development
 🌱 I’m currently learning UI/UX
 💞️ I’m looking to collaborate on frontend development projects
-📫 How to reach me: LinkedIn
+📫 How to reach me: LinkedIn : https://www.linkedin.com/in/mohanram-murugesan-48968728b/
 😄 Pronouns: He/Him
 ⚡ Fun fact: I can spend hours debugging code, but still find time to enjoy a good meme!
 
